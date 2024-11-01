@@ -1,0 +1,17 @@
+
+.header {
+    background-color: #065e09;
+    padding: 1rem;
+  }
+  
+  .navList {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+  }
+  
+  .navList li a {
+    color: white;
+    text-decoration: none;
+  }
+  
